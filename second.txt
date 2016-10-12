@@ -1,5 +1,0 @@
-Just a second file to learn git.
-Doing just fore one time.
-
-
-Changing something here.
